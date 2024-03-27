@@ -1,2 +1,2 @@
 # Combined Electrical and Heat Load Restoration
-This repository provides the testdata for the research "Combined electrical and heat load restoration".
+This repository provides the testdata for the research "Combined Electrical and Heat Load Restoration Based on Bi-Objective Distributionally Robust Optimization".
